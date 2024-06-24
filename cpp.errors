@@ -1,0 +1,6 @@
+/home/leu-andreea/Desktop/PA/check_public (1)/_utils/coding_style/check_cpp.py:57: DeprecationWarning: module 'sre_compile' is deprecated
+  import sre_compile
+Done processing ./drumuri.cpp
+Done processing ./numarare.cpp
+Done processing ./scandal.cpp
+Done processing ./trenuri.cpp
